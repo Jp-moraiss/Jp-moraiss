@@ -1,4 +1,12 @@
-# 👋 Hello! I'm JP]
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+# 👋 Hello! I'm JP
 
 [![GitHub followers](https://img.shields.io/github/followers/Jp-moraiss?label=Follow&style=social)](https://github.com/Jp-moraiss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pedro-morais-7b05942b7/)
@@ -12,9 +20,9 @@
 ### 🛠️ Skills
 
 - **Programming Languages:** C, Python, JavaScript
-- **Frameworks:** Django, Flask
-- **Tools:** Git, Docker, VSCode, Linux
-- **Databases:** MySQL, PostgreSQL
+- **Frameworks:** Django
+- **Tools:** Git, VSCode, JetBrains IDEs
+- **Databases:** PostgreSQL, SQLite3
 
 ### 💻 Projects
 
@@ -34,4 +42,3 @@ Here are some of my latest projects:
 
 - [LinkedIn](https://www.linkedin.com/in/pedro-morais-7b05942b7/)
 - [Email](mailto:jpamorais3011@gmail.com)
-
