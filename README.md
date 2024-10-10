@@ -1,6 +1,6 @@
 # 👋 Hello! I'm JP]
 
-[![GitHub followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/Jp-moraiss)
+[![GitHub followers](https://img.shields.io/github/followers/Jp-moraiss?label=Follow&style=social)](https://github.com/Jp-moraiss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pedro-morais-7b05942b7/)
 
 ### 🚀 About Me
