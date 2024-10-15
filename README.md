@@ -29,7 +29,7 @@
 
 Here are some of my latest projects:
 
-- **[Semeia](https://github.com/lavasilva/Semeia)**
+- **[Soli](https://github.com/lavasilva/Soli)**
   - Built with Django for Projects 2 course in the second semester of the Computer Science degree.
 
 - **[CUIDA](https://github.com/Jeraross/CUIDA/)**
