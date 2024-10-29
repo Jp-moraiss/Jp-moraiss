@@ -41,6 +41,8 @@ Here are some of my latest projects:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jp-moraiss&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-moraiss&layout=compact&theme=radical)](https://github.com/Jp-moraiss/github-readme-stats)
+
 ### 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/pedro-morais-7b05942b7/)
