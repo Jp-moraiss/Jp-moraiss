@@ -45,5 +45,6 @@ Here are some of my latest projects:
 
 ### 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/pedro-morais-7b05942b7/)
-- [Email](mailto:jpamorais3011@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pedro-morais-7b05942b7/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jpamorais3011@gmail.com)
+
