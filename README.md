@@ -5,15 +5,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **C, Python, Django**
-- 💡 Interested in **Web Development, Algorithms, Problem Solving and GameDev**
-
-### 🛠️ Skills
-
-- **Programming Languages:** C, Python, JavaScript
-- **Frameworks:** Django
-- **Tools:** Git, VSCode, JetBrains IDEs
-- **Databases:** PostgreSQL, SQLite3
+- Currently a Computer Science student, passionate about website and game development. I enjoy learning new technologies and applying them to create innovative and engaging projects.
 
 ### 💻 Projects
 
@@ -28,23 +20,25 @@ Here are some of my latest projects:
 - **[Hotline Recife](https://github.com/Jeraross/Hotline-Recife/)**
   - A game project developed in pure C programming language for the Imperative and Functional Programming course in the second semester of the Computer Science degree.
 
-## Technologies I use in my day
-<br/>
-As a Computer Science Student and a junior developer, there are some of the technologies I use to improve my college projects:
-<br/>
-<br/>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white)
+##
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jp-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Jp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jp-Java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/java/java-original.svg">
+  <img align="center" alt="Jp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jp-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+  <img align="center" alt="Jp-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="Jp-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Jp-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Jp-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
+  <img align="center" alt="Jp-AzureSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="Jp-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
+</div>
 
-### 📊 GitHub Stats
+##
 
 <table align="center">
   <tr>
