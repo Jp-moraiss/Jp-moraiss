@@ -62,3 +62,9 @@ Here are some of my latest projects:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pedro-morais-7b05942b7/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jpamorais3011@gmail.com)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jp-moraiss/Jp-moraiss/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jp-moraiss/Jp-moraiss/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Jp-moraiss/Jp-moraiss/output/github-snake.svg" />
+</picture>
