@@ -20,6 +20,9 @@ Here are some of my latest projects:
 - **[Hotline Recife](https://github.com/Jeraross/Hotline-Recife/)**
   - A game project developed in pure C programming language for the Imperative and Functional Programming course in the second semester of the Computer Science degree.
 
+ - **[Rock Hero](https://github.com/Jeraross/RockHero/)**
+  - A game project developed in pure C programming language for the Imperative and Functional Programming course in the second semester of the Computer Science degree.
+
 
 ##
 <div style="display: inline_block"><br>
