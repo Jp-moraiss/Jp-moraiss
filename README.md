@@ -21,7 +21,7 @@ Here are some of my latest projects:
   - A game project developed in pure C programming language for the Imperative and Functional Programming course in the second semester of the Computer Science degree.
 
  - **[Rock Hero](https://github.com/Jeraross/RockHero/)**
-  - A game project developed in pure C programming language for the Imperative and Functional Programming course in the second semester of the Computer Science degree.
+    - A game project developed in pure C programming language for the Imperative and Functional Programming course in the second semester of the Computer Science degree.
 
 
 ##
