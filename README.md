@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JP%20Morais&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20%26%20Game%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=51&descAlign=50" width="100%"/>
-</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Passionate+Game+Developer+%F0%9F%8E%AE;Creative+Web+Developer+%F0%9F%92%BB;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
