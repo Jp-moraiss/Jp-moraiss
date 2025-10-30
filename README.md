@@ -10,9 +10,10 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 Hey there! I'm **JP**, a Computer Science student with a passion for building things for the web and the world of game development.
-Since the beginning of my journey in programming, I have been motivated by the challenge of turning ideas into reality. I enjoy learning new technologies and applying them to create innovative and engaging projects, whether it's building the logic for a game or developing a functional and elegant website.
 
-I believe in continuous learning and am always seeking to expand my skills, exploring different tools and frameworks to become a more complete and versatile developer.
+Since the beginning of my journey in programming, I have been motivated by the challenge of turning ideas into reality. 
+
+I enjoy learning new technologies and applying them to create innovative and engaging projects, whether it's building the logic for a game or developing a functional and elegant website.
 
 My goal is to create solutions that not only work well but also provide great experiences for users. Let's build something amazing together! 🚀
 
