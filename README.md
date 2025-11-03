@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTk3NDE0cDM4ZXRzeTBma3U5OHY2dGQ0OTRkcWx1c28xdHRhNzJxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Hey there! I'm **JP**, a Computer Science student with a passion for building things for the web and the world of game development.
 
