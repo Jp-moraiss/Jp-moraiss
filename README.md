@@ -56,16 +56,17 @@ My goal is to create solutions that not only work well but also provide great ex
 Aqui estão alguns dos projetos em que trabalhei:
 
 - **[Soli](https://github.com/Jp-moraiss/Soli)**
-  - Aplicação web construída com Django para a disciplina de Projetos 2.
+  - A web application built with Django for the Projects 2 course.
 
 - **[CUIDA](https://github.com/Jeraross/CUIDA/)**
-  - Projeto de software em Django para a disciplina de Fundamentos de Desenvolvimento de Software.
+  - A Django-based software project developed for the Foundations of Software Development course.
 
 - **[Hotline Recife](https://github.com/Jeraross/Hotline-Recife/)**
-  - Jogo desenvolvido em linguagem C pura para a disciplina de Programação Imperativa e Funcional.
+  - A game developed in pure C for the Imperative and Functional Programming course.
 
 - **[Rock Hero](https://github.com/Jeraross/RockHero/)**
-  - Jogo desenvolvido em linguagem C pura para a disciplina de Programação Imperativa e Funcional.
+  - A game developed in pure C for the Algorithms and Data Structures course.
+  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
