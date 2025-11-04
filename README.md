@@ -80,7 +80,21 @@ Aqui estão alguns dos projetos em que trabalhei:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jp-moraiss&theme=tokyonight&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=FF6B6B&currStreakLabel=6495ED" alt="GitHub Streak"/>
 </div>
 
+<div align="center" style="margin: 10px">
+ <img src="https://github-profile-trophy.vercel.app/?username=Jp-moraiss&theme=algolia">
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jp-moraiss&theme=algolia" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jp-moraiss&theme=algolia" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jp-moraiss&theme=algolia&utcOffset=-3" width="32%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jp-moraiss&theme=algolia&hide_border=true&bg_color=0D1117&color=6495ED&line=6495ED&point=FFFFFF" width="100%"/>
+</div>
 
 ## 📬 Let's Connect!
 
