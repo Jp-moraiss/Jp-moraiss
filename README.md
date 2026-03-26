@@ -66,6 +66,9 @@ Aqui estão alguns dos projetos em que trabalhei:
 
 - **[Rock Hero](https://github.com/Jeraross/RockHero/)**
   - A game developed in pure C for the Algorithms and Data Structures course.
+ 
+- **[SuperStats](https://github.com/Jp-moraiss/SuperStats/)**
+  - A Spring-based geek dashboard with movies and comics developed for the Database course.
   
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
